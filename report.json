@@ -1,0 +1,373 @@
+{
+    "Lori Young": {
+        "shopping_cart": [
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 3550.84
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 395.97
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 1183.71
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 450.34
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 1306.08
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 1525.44
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 1401.14
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 2718.81
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1576.44
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 625.81
+            }
+        ],
+        "total": 14734.58,
+        "cashier": "Cashier_1"
+    },
+    "Richard Morris": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 617.91,
+                "loyalty_price": 525.22
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 675.75,
+                "loyalty_price": 574.39
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 843.68,
+                "loyalty_price": 717.13
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 3401.85,
+                "loyalty_price": 2891.57
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 1959.12,
+                "loyalty_price": 1665.25
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 224.48,
+                "loyalty_price": 190.81
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 4352.67,
+                "loyalty_price": 3699.77
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1528.56,
+                "loyalty_price": 1299.28
+            }
+        ],
+        "total": 13604.02,
+        "loyalty_total": 11563.42,
+        "cashier": "Cashier_1"
+    },
+    "Christina Barton": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 184.72,
+                "loyalty_price": 157.01
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 518.24,
+                "loyalty_price": 440.5
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 3497.13,
+                "loyalty_price": 2972.56
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 2516.04,
+                "loyalty_price": 2138.63
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 197.58,
+                "loyalty_price": 167.94
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 9572.32,
+                "loyalty_price": 8136.47
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 3441.27,
+                "loyalty_price": 2925.08
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 3067.76,
+                "loyalty_price": 2607.6
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 2507.6,
+                "loyalty_price": 2131.46
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 2477.88,
+                "loyalty_price": 2106.2
+            }
+        ],
+        "total": 27980.54,
+        "loyalty_total": 23783.45,
+        "cashier": "Cashier_2"
+    },
+    "Samantha Coleman": {
+        "shopping_cart": [
+            {
+                "product": "Braun Electric Shaver",
+                "price": 4221.33,
+                "loyalty_price": 3588.13
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 255.0,
+                "loyalty_price": 216.75
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 939.15,
+                "loyalty_price": 798.28
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 3550.84,
+                "loyalty_price": 3018.21
+            }
+        ],
+        "total": 8966.32,
+        "loyalty_total": 7621.37,
+        "cashier": "Cashier_1"
+    },
+    "Kathleen Fletcher": {
+        "shopping_cart": [
+            {
+                "product": "Under Armour Hoodie",
+                "price": 3966.06,
+                "loyalty_price": 3371.15
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 2798.12,
+                "loyalty_price": 2378.4
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 6244.45,
+                "loyalty_price": 5307.78
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 2516.04,
+                "loyalty_price": 2138.63
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 826.76,
+                "loyalty_price": 702.75
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 463.78,
+                "loyalty_price": 394.21
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 8841.12,
+                "loyalty_price": 7514.95
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 4072.08,
+                "loyalty_price": 3461.27
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 767.62,
+                "loyalty_price": 652.48
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 2746.17,
+                "loyalty_price": 2334.24
+            }
+        ],
+        "total": 33242.2,
+        "loyalty_total": 28255.86,
+        "cashier": "Cashier_2"
+    },
+    "Olivia Horne": {
+        "shopping_cart": [
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1165.28,
+                "loyalty_price": 990.49
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 1671.27,
+                "loyalty_price": 1420.58
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 1735.44,
+                "loyalty_price": 1475.12
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1044.34,
+                "loyalty_price": 887.69
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 2711.38,
+                "loyalty_price": 2304.67
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 5086.15,
+                "loyalty_price": 4323.23
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 700.17,
+                "loyalty_price": 595.14
+            }
+        ],
+        "total": 14114.03,
+        "loyalty_total": 11996.92,
+        "cashier": "Cashier_1"
+    },
+    "Kathleen Hernandez": {
+        "shopping_cart": [
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 3460.75
+            }
+        ],
+        "total": 3460.75,
+        "cashier": "Cashier_3"
+    },
+    "Shelley Ballard": {
+        "shopping_cart": [
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 6764.48,
+                "loyalty_price": 5749.81
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 875.76,
+                "loyalty_price": 744.4
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 691.34,
+                "loyalty_price": 587.64
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 2592.32,
+                "loyalty_price": 2203.47
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 927.56,
+                "loyalty_price": 788.43
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 4611.69,
+                "loyalty_price": 3919.94
+            }
+        ],
+        "total": 16463.15,
+        "loyalty_total": 13993.69,
+        "cashier": "Cashier_4"
+    },
+    "David Cook": {
+        "shopping_cart": [
+            {
+                "product": "Stanley Tool Box",
+                "price": 8925.3
+            }
+        ],
+        "total": 8925.3,
+        "cashier": "Cashier_2"
+    },
+    "Joseph Bridges": {
+        "shopping_cart": [
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 339.48
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 2807.92
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 2872.0
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 7905.66
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 2574.56
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1446.74
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 831.98
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 8846.64
+            }
+        ],
+        "total": 27624.98,
+        "cashier": "Cashier_1"
+    }
+}
