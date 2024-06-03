@@ -34,7 +34,6 @@ def read_products_from_csv(filepath):
 
 def generate_costumer(product_list, que_nr):
     costumer_data = {}
-    name = Faker().name()
     shopping_cart = random.sample(sorted(product_list.keys()), random.randint(1, 10))
     loyalty_card = random.choice([True, False])
     costumer_data['name'] = f'Costumer_{que_nr + 1}'
