@@ -1,0 +1,6442 @@
+{
+    "Costumer_1": {
+        "shopping_cart": [
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 531.22
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 868.22
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 997.45
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 356.89
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 1456.88
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 863.6
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 391.83
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 1374.25
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 251.52
+            }
+        ],
+        "total": 7091.86,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_2": {
+        "shopping_cart": [
+            {
+                "product": "Makita Circular Saw",
+                "price": 1091.91
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 202.23
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1145.84
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 42.14
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 333.47
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 38.5
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 1024.72
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 746.45
+            }
+        ],
+        "total": 4625.26,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_3": {
+        "shopping_cart": [
+            {
+                "product": "Craftsman Tool Set",
+                "price": 583.41
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 504.91
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1308.11
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 1408.12
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1428.38
+            }
+        ],
+        "total": 5232.93,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_4": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 890.43
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 55.54
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 1221.81
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 932.74
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 212.53
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 782.79
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 1079.59
+            }
+        ],
+        "total": 5175.43,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_5": {
+        "shopping_cart": [
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 47.04,
+                "discount_price": 41.87
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 1229.76,
+                "discount_price": 1143.68
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1453.77,
+                "discount_price": 1322.93
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 9.21,
+                "discount_price": 8.47
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 817.43,
+                "discount_price": 727.51
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 266.88,
+                "discount_price": 242.86
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 765.15,
+                "discount_price": 696.29
+            }
+        ],
+        "total": 4589.24,
+        "total_discount_price": 4183.61,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_6": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 948.91,
+                "discount_price": 891.98
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 249.1,
+                "discount_price": 231.66
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 1462.55,
+                "discount_price": 1330.92
+            }
+        ],
+        "total": 2660.56,
+        "total_discount_price": 2454.56,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_7": {
+        "shopping_cart": [
+            {
+                "product": "Instant Pot Duo",
+                "price": 1366.68
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 607.92
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 607.13
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 426.33
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 590.9
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 1089.21
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 991.4
+            }
+        ],
+        "total": 5679.57,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_8": {
+        "shopping_cart": [
+            {
+                "product": "Craftsman Tool Set",
+                "price": 800.42,
+                "discount_price": 744.39
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 349.54,
+                "discount_price": 328.57
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 69.3,
+                "discount_price": 63.06
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 607.13,
+                "discount_price": 540.35
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 27.41,
+                "discount_price": 25.77
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 985.98,
+                "discount_price": 916.96
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 522.98,
+                "discount_price": 470.68
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 1145.75,
+                "discount_price": 1077.01
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 298.54,
+                "discount_price": 280.63
+            }
+        ],
+        "total": 4807.05,
+        "total_discount_price": 4447.42,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_9": {
+        "shopping_cart": [
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 1353.15
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 486.67
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 135.58
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 523.51
+            }
+        ],
+        "total": 2498.91,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_10": {
+        "shopping_cart": [
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 914.87,
+                "discount_price": 805.09
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1222.35,
+                "discount_price": 1100.11
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1228.28,
+                "discount_price": 1130.02
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1300.59,
+                "discount_price": 1235.56
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 664.76,
+                "discount_price": 618.23
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 1059.6,
+                "discount_price": 974.83
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 69.3,
+                "discount_price": 63.06
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1163.05,
+                "discount_price": 1104.9
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 954.58,
+                "discount_price": 849.58
+            }
+        ],
+        "total": 8577.38,
+        "total_discount_price": 7881.38,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_11": {
+        "shopping_cart": [
+            {
+                "product": "Craftsman Tool Set",
+                "price": 583.41
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1330.15
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 422.58
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1152.3
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 289.25
+            }
+        ],
+        "total": 3777.69,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_12": {
+        "shopping_cart": [
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 548.07,
+                "discount_price": 498.74
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1202.55,
+                "discount_price": 1130.4
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 782.1,
+                "discount_price": 696.07
+            }
+        ],
+        "total": 2532.72,
+        "total_discount_price": 2325.21,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_13": {
+        "shopping_cart": [
+            {
+                "product": "Makita Circular Saw",
+                "price": 1226.42,
+                "discount_price": 1079.25
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 222.94,
+                "discount_price": 196.19
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 385.52,
+                "discount_price": 339.26
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 1112.02,
+                "discount_price": 1034.18
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 74.63,
+                "discount_price": 66.42
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 1338.11,
+                "discount_price": 1217.68
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 223.17,
+                "discount_price": 198.62
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 313.2,
+                "discount_price": 294.41
+            }
+        ],
+        "total": 4896.01,
+        "total_discount_price": 4426.01,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_14": {
+        "shopping_cart": [
+            {
+                "product": "Phillips Airfryer",
+                "price": 424.05
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 948.91
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 1029.31
+            }
+        ],
+        "total": 2402.27,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_15": {
+        "shopping_cart": [
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 288.71
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 340.32
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1163.05
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 798.2
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 529.5
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 538.47
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 1089.37
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 536.03
+            }
+        ],
+        "total": 5283.65,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_16": {
+        "shopping_cart": [
+            {
+                "product": "Olay Total Effects",
+                "price": 1250.95,
+                "discount_price": 1138.36
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1307.01,
+                "discount_price": 1202.45
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 299.14,
+                "discount_price": 263.24
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 161.38,
+                "discount_price": 143.63
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 1139.51,
+                "discount_price": 1025.56
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 313.2,
+                "discount_price": 294.41
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1228.28,
+                "discount_price": 1130.02
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 995.83,
+                "discount_price": 886.29
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1266.69,
+                "discount_price": 1165.35
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 664.76,
+                "discount_price": 618.23
+            }
+        ],
+        "total": 8626.75,
+        "total_discount_price": 7867.54,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_17": {
+        "shopping_cart": [
+            {
+                "product": "Puma Running Shorts",
+                "price": 1033.85
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 603.58
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 1250.68
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 684.27
+            }
+        ],
+        "total": 3572.38,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_18": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 425.25,
+                "discount_price": 386.98
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 349.54,
+                "discount_price": 328.57
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 391.83,
+                "discount_price": 348.73
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 1474.02,
+                "discount_price": 1400.32
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 202.28,
+                "discount_price": 186.1
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 7.23,
+                "discount_price": 6.43
+            }
+        ],
+        "total": 2850.15,
+        "total_discount_price": 2657.13,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_19": {
+        "shopping_cart": [
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 1437.5,
+                "discount_price": 1265.0
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 472.74,
+                "discount_price": 439.65
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1407.67,
+                "discount_price": 1337.29
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 300.29,
+                "discount_price": 267.26
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 287.93,
+                "discount_price": 256.26
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 454.4,
+                "discount_price": 399.87
+            }
+        ],
+        "total": 4360.53,
+        "total_discount_price": 3965.33,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_20": {
+        "shopping_cart": [
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 839.67
+            }
+        ],
+        "total": 839.67,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_21": {
+        "shopping_cart": [
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 1221.81
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 107.03
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 885.75
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 956.74
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 47.04
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 460.12
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1308.11
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 175.36
+            }
+        ],
+        "total": 5161.96,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_22": {
+        "shopping_cart": [
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 353.53
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 718.69
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 1375.03
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 175.21
+            }
+        ],
+        "total": 2622.46,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_23": {
+        "shopping_cart": [
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 590.9,
+                "discount_price": 555.45
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 340.32,
+                "discount_price": 319.9
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 367.93,
+                "discount_price": 349.53
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1085.54,
+                "discount_price": 1020.41
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 557.98,
+                "discount_price": 496.6
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 292.27,
+                "discount_price": 257.2
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 607.92,
+                "discount_price": 553.21
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 494.76,
+                "discount_price": 440.34
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 455.61,
+                "discount_price": 405.49
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 1375.59,
+                "discount_price": 1238.03
+            }
+        ],
+        "total": 6168.82,
+        "total_discount_price": 5636.16,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_24": {
+        "shopping_cart": [
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 575.83
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 972.15
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 863.6
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 613.21
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 603.58
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1479.08
+            }
+        ],
+        "total": 5107.45,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_25": {
+        "shopping_cart": [
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 776.38
+            }
+        ],
+        "total": 776.38,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_26": {
+        "shopping_cart": [
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 239.98
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 372.08
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 602.07
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 574.27
+            }
+        ],
+        "total": 1788.4,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_27": {
+        "shopping_cart": [
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 907.66
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 672.8
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 92.67
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 1374.25
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 256.88
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1152.3
+            }
+        ],
+        "total": 4456.56,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_28": {
+        "shopping_cart": [
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1302.79,
+                "discount_price": 1185.54
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 1228.89,
+                "discount_price": 1106.0
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1407.67,
+                "discount_price": 1337.29
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 324.32,
+                "discount_price": 285.4
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 164.18,
+                "discount_price": 154.33
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 716.66,
+                "discount_price": 666.49
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1085.74,
+                "discount_price": 966.31
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1020.42,
+                "discount_price": 969.4
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 1101.91,
+                "discount_price": 1035.8
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 764.99,
+                "discount_price": 680.84
+            }
+        ],
+        "total": 9117.57,
+        "total_discount_price": 8387.4,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_29": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1359.87,
+                "discount_price": 1237.48
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 739.23,
+                "discount_price": 694.88
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 411.98,
+                "discount_price": 370.78
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 1195.9,
+                "discount_price": 1052.39
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 555.34,
+                "discount_price": 516.47
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 349.54,
+                "discount_price": 328.57
+            }
+        ],
+        "total": 4611.86,
+        "total_discount_price": 4200.57,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_30": {
+        "shopping_cart": [
+            {
+                "product": "Makita Circular Saw",
+                "price": 1204.9
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 967.6
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 1152.99
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 1462.55
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 985.69
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 458.98
+            }
+        ],
+        "total": 6232.71,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_31": {
+        "shopping_cart": [
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 1101.91
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 1146.97
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 857.35
+            }
+        ],
+        "total": 3106.23,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_32": {
+        "shopping_cart": [
+            {
+                "product": "Instant Pot Duo",
+                "price": 125.64
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 587.67
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 1286.49
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 185.96
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 1343.54
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 124.9
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1324.86
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 341.71
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 739.99
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 224.51
+            }
+        ],
+        "total": 6285.27,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_33": {
+        "shopping_cart": [
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 581.1
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 100.75
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 377.59
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 239.56
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 647.97
+            }
+        ],
+        "total": 1946.97,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_34": {
+        "shopping_cart": [
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 853.45
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 568.92
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 1157.18
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 729.55
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 87.69
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 380.0
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 364.73
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 446.12
+            }
+        ],
+        "total": 4587.64,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_35": {
+        "shopping_cart": [
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 886.23,
+                "discount_price": 824.19
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1122.09,
+                "discount_price": 998.66
+            }
+        ],
+        "total": 2008.32,
+        "total_discount_price": 1822.85,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_36": {
+        "shopping_cart": [
+            {
+                "product": "Stanley Tool Box",
+                "price": 509.88,
+                "discount_price": 448.69
+            }
+        ],
+        "total": 509.88,
+        "total_discount_price": 448.69,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_37": {
+        "shopping_cart": [
+            {
+                "product": "Stanley Tool Box",
+                "price": 430.52
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 364.73
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1228.28
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 859.27
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1330.15
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 481.37
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 874.19
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 292.27
+            }
+        ],
+        "total": 5860.78,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_38": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 257.8,
+                "discount_price": 226.86
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1250.34,
+                "discount_price": 1162.82
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1073.97,
+                "discount_price": 945.09
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1020.42,
+                "discount_price": 969.4
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 1197.45,
+                "discount_price": 1137.58
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 67.6,
+                "discount_price": 59.49
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 176.53,
+                "discount_price": 157.11
+            }
+        ],
+        "total": 5044.11,
+        "total_discount_price": 4658.35,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_39": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 239.56,
+                "discount_price": 225.19
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 181.17,
+                "discount_price": 163.05
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 935.51,
+                "discount_price": 888.73
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 232.81,
+                "discount_price": 211.86
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 400.93,
+                "discount_price": 360.84
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1214.45,
+                "discount_price": 1141.58
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 977.99,
+                "discount_price": 899.75
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 716.65,
+                "discount_price": 630.65
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1123.4,
+                "discount_price": 1056.0
+            }
+        ],
+        "total": 6022.47,
+        "total_discount_price": 5577.65,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_40": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1396.32
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 911.57
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1324.86
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 1207.18
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 801.98
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1383.18
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 349.54
+            }
+        ],
+        "total": 7374.63,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_41": {
+        "shopping_cart": [
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 285.06,
+                "discount_price": 265.11
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 85.65,
+                "discount_price": 77.09
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 1053.25,
+                "discount_price": 937.39
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 1170.21,
+                "discount_price": 1076.59
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 1125.39,
+                "discount_price": 1012.85
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 531.52,
+                "discount_price": 494.31
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 167.09,
+                "discount_price": 148.71
+            }
+        ],
+        "total": 4418.17,
+        "total_discount_price": 4012.05,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_42": {
+        "shopping_cart": [
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 205.31,
+                "discount_price": 180.67
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 772.77,
+                "discount_price": 680.04
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 716.71,
+                "discount_price": 659.37
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 38.34,
+                "discount_price": 34.51
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 994.4,
+                "discount_price": 944.68
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 880.42,
+                "discount_price": 792.38
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1164.9,
+                "discount_price": 1060.06
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 37.62,
+                "discount_price": 33.11
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 932.74,
+                "discount_price": 830.14
+            }
+        ],
+        "total": 5743.21,
+        "total_discount_price": 5214.96,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_43": {
+        "shopping_cart": [
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 653.85
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 1257.44
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1293.81
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 319.59
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 175.36
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 452.52
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 378.03
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1061.44
+            }
+        ],
+        "total": 5592.04,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_44": {
+        "shopping_cart": [
+            {
+                "product": "Phillips Airfryer",
+                "price": 124.66
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 764.99
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 426.58
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 97.21
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 442.75
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 223.27
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 1089.37
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 455.61
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 61.86
+            }
+        ],
+        "total": 3686.3,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_45": {
+        "shopping_cart": [
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 59.56
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 288.71
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 304.06
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 1499.82
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 37.62
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 615.36
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 169.96
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1000.62
+            }
+        ],
+        "total": 3975.71,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_46": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1298.6
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 562.16
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 941.31
+            }
+        ],
+        "total": 2802.07,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_47": {
+        "shopping_cart": [
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 939.85,
+                "discount_price": 836.47
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 1430.83,
+                "discount_price": 1259.13
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 635.96,
+                "discount_price": 572.36
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 176.53,
+                "discount_price": 157.11
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 59.56,
+                "discount_price": 54.8
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 17.46,
+                "discount_price": 16.59
+            }
+        ],
+        "total": 3260.19,
+        "total_discount_price": 2896.46,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_48": {
+        "shopping_cart": [
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 853.45
+            }
+        ],
+        "total": 853.45,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_49": {
+        "shopping_cart": [
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 280.76,
+                "discount_price": 263.91
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 522.98,
+                "discount_price": 470.68
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 531.52,
+                "discount_price": 494.31
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1250.34,
+                "discount_price": 1162.82
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 1207.73,
+                "discount_price": 1074.88
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 143.4,
+                "discount_price": 126.19
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 340.37,
+                "discount_price": 309.74
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 615.36,
+                "discount_price": 559.98
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 172.82,
+                "discount_price": 158.99
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 1005.49,
+                "discount_price": 925.05
+            }
+        ],
+        "total": 6070.77,
+        "total_discount_price": 5546.55,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_50": {
+        "shopping_cart": [
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 776.38,
+                "discount_price": 714.27
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 1035.02,
+                "discount_price": 921.17
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 1332.91,
+                "discount_price": 1172.96
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 1103.55,
+                "discount_price": 993.2
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 249.1,
+                "discount_price": 231.66
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 904.21,
+                "discount_price": 804.75
+            }
+        ],
+        "total": 5401.17,
+        "total_discount_price": 4838.01,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_51": {
+        "shopping_cart": [
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 76.54,
+                "discount_price": 67.36
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 107.03,
+                "discount_price": 99.54
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 733.7,
+                "discount_price": 652.99
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 42.14,
+                "discount_price": 38.77
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1098.32,
+                "discount_price": 1010.45
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 965.72,
+                "discount_price": 859.49
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 318.01,
+                "discount_price": 295.75
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 519.54,
+                "discount_price": 462.39
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 445.08,
+                "discount_price": 409.47
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1007.87,
+                "discount_price": 947.4
+            }
+        ],
+        "total": 5313.95,
+        "total_discount_price": 4843.61,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_52": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1043.71
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 466.91
+            }
+        ],
+        "total": 1510.62,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_53": {
+        "shopping_cart": [
+            {
+                "product": "Ninja Blender",
+                "price": 290.11,
+                "discount_price": 264.0
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 170.69,
+                "discount_price": 157.03
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1151.89,
+                "discount_price": 1025.18
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1279.21,
+                "discount_price": 1164.08
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 430.52,
+                "discount_price": 391.77
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 739.23,
+                "discount_price": 694.88
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 18.56,
+                "discount_price": 17.08
+            }
+        ],
+        "total": 4080.21,
+        "total_discount_price": 3714.02,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_54": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 444.31,
+                "discount_price": 404.32
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 424.05,
+                "discount_price": 381.64
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 914.87,
+                "discount_price": 805.09
+            }
+        ],
+        "total": 1783.23,
+        "total_discount_price": 1591.05,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_55": {
+        "shopping_cart": [
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 243.56
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 74.69
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 766.53
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 450.16
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 474.49
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 494.76
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 1220.4
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 742.77
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 1062.18
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 334.04
+            }
+        ],
+        "total": 5863.58,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_56": {
+        "shopping_cart": [
+            {
+                "product": "Makita Circular Saw",
+                "price": 1204.9,
+                "discount_price": 1072.36
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 515.95,
+                "discount_price": 464.36
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 917.75,
+                "discount_price": 844.33
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 528.45,
+                "discount_price": 480.89
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 1211.77,
+                "discount_price": 1066.36
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 886.39,
+                "discount_price": 806.61
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1279.21,
+                "discount_price": 1164.08
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 1233.1,
+                "discount_price": 1085.13
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 355.22,
+                "discount_price": 326.8
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 1358.92,
+                "discount_price": 1209.44
+            }
+        ],
+        "total": 9491.66,
+        "total_discount_price": 8520.36,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_57": {
+        "shopping_cart": [
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 82.3
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 891.83
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 239.98
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 194.18
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 474.49
+            }
+        ],
+        "total": 1882.78,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_58": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 451.45
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 1157.72
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 457.44
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 72.57
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 271.3
+            }
+        ],
+        "total": 2410.48,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_59": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 257.8,
+                "discount_price": 226.86
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 757.27,
+                "discount_price": 689.12
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1456.59,
+                "discount_price": 1296.37
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 656.17,
+                "discount_price": 610.24
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 494.76,
+                "discount_price": 440.34
+            }
+        ],
+        "total": 3622.59,
+        "total_discount_price": 3262.93,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_60": {
+        "shopping_cart": [
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 162.47
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 204.94
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 247.77
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 1447.21
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 167.09
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 1262.64
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 212.53
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 1379.78
+            }
+        ],
+        "total": 5084.43,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_61": {
+        "shopping_cart": [
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1061.44,
+                "discount_price": 944.68
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 311.28,
+                "discount_price": 277.04
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 962.21,
+                "discount_price": 914.1
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 94.79,
+                "discount_price": 87.21
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 709.99,
+                "discount_price": 638.99
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1152.3,
+                "discount_price": 1048.59
+            }
+        ],
+        "total": 4292.01,
+        "total_discount_price": 3910.61,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_62": {
+        "shopping_cart": [
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1319.88,
+                "discount_price": 1214.29
+            }
+        ],
+        "total": 1319.88,
+        "total_discount_price": 1214.29,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_63": {
+        "shopping_cart": [
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 80.13,
+                "discount_price": 73.72
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 745.75,
+                "discount_price": 678.63
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1396.32,
+                "discount_price": 1270.65
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 175.21,
+                "discount_price": 161.19
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1391.17,
+                "discount_price": 1238.14
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 268.83,
+                "discount_price": 252.7
+            }
+        ],
+        "total": 4057.41,
+        "total_discount_price": 3675.03,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_64": {
+        "shopping_cart": [
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 716.66,
+                "discount_price": 666.49
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1166.99,
+                "discount_price": 1108.64
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 727.79,
+                "discount_price": 647.73
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1073.97,
+                "discount_price": 945.09
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 279.54,
+                "discount_price": 248.79
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1309.32,
+                "discount_price": 1165.29
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1020.5,
+                "discount_price": 898.04
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 1170.21,
+                "discount_price": 1076.59
+            }
+        ],
+        "total": 7464.98,
+        "total_discount_price": 6756.66,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_65": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 972.68
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 319.59
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 251.52
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1489.42
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 538.47
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 389.78
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1140.39
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 867.14
+            }
+        ],
+        "total": 5968.99,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_66": {
+        "shopping_cart": [
+            {
+                "product": "Garnier Micellar Water",
+                "price": 1447.21,
+                "discount_price": 1288.02
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1273.96,
+                "discount_price": 1133.82
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 251.52,
+                "discount_price": 238.94
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1115.76,
+                "discount_price": 1015.34
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 81.13,
+                "discount_price": 73.02
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1185.31,
+                "discount_price": 1102.34
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 653.85,
+                "discount_price": 588.47
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 126.66,
+                "discount_price": 117.79
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 594.41,
+                "discount_price": 564.69
+            }
+        ],
+        "total": 6729.81,
+        "total_discount_price": 6122.43,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_67": {
+        "shopping_cart": [
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 850.69
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1061.44
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 177.87
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 667.66
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 8.21
+            }
+        ],
+        "total": 2765.87,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_68": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Edge 530",
+                "price": 955.13,
+                "discount_price": 888.27
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 684.67,
+                "discount_price": 609.36
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1152.3,
+                "discount_price": 1048.59
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 727.79,
+                "discount_price": 647.73
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 741.24,
+                "discount_price": 689.35
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 363.19,
+                "discount_price": 345.03
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 388.18,
+                "discount_price": 341.6
+            }
+        ],
+        "total": 5012.5,
+        "total_discount_price": 4569.93,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_69": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1396.32
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 757.27
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 104.54
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 974.56
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1098.32
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 989.09
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 948.91
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1115.96
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 935.51
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 70.96
+            }
+        ],
+        "total": 8391.44,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_70": {
+        "shopping_cart": [
+            {
+                "product": "Timex Ironman Watch",
+                "price": 72.41
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1077.21
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 247.03
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 50.7
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 757.12
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 426.88
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 208.86
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 1455.98
+            }
+        ],
+        "total": 4296.19,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_71": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1298.6,
+                "discount_price": 1155.75
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 319.59,
+                "discount_price": 294.02
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 50.7,
+                "discount_price": 46.14
+            }
+        ],
+        "total": 1668.89,
+        "total_discount_price": 1495.91,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_72": {
+        "shopping_cart": [
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 143.7,
+                "discount_price": 135.08
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 1228.89,
+                "discount_price": 1106.0
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1155.52,
+                "discount_price": 1086.19
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 1256.57,
+                "discount_price": 1118.35
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 976.06,
+                "discount_price": 888.21
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 929.19,
+                "discount_price": 817.69
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1328.25,
+                "discount_price": 1235.27
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 498.26,
+                "discount_price": 448.43
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 820.3,
+                "discount_price": 762.88
+            }
+        ],
+        "total": 8336.74,
+        "total_discount_price": 7598.1,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_73": {
+        "shopping_cart": [
+            {
+                "product": "Bosch Dishwasher",
+                "price": 249.1
+            }
+        ],
+        "total": 249.1,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_74": {
+        "shopping_cart": [
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1185.31
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 100.75
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 1281.11
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 797.39
+            }
+        ],
+        "total": 3364.56,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_75": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 176.53
+            }
+        ],
+        "total": 176.53,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_76": {
+        "shopping_cart": [
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 559.37
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 70.95
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 1176.93
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1090.79
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 724.75
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 247.77
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 42.14
+            }
+        ],
+        "total": 3912.7,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_77": {
+        "shopping_cart": [
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 915.42,
+                "discount_price": 851.34
+            }
+        ],
+        "total": 915.42,
+        "total_discount_price": 851.34,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_78": {
+        "shopping_cart": [
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 139.58,
+                "discount_price": 128.41
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 361.2,
+                "discount_price": 343.14
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 868.22,
+                "discount_price": 798.76
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 292.27,
+                "discount_price": 257.2
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 1033.04,
+                "discount_price": 929.74
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 995.83,
+                "discount_price": 886.29
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 48.94,
+                "discount_price": 44.54
+            }
+        ],
+        "total": 3739.08,
+        "total_discount_price": 3388.08,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_79": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1254.88
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 364.73
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 104.54
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1185.31
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 796.62
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 624.03
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 160.91
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 682.58
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 325.88
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 1226.42
+            }
+        ],
+        "total": 6725.9,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_80": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 126.74,
+                "discount_price": 115.33
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 450.16,
+                "discount_price": 423.15
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 996.09,
+                "discount_price": 946.29
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 300.29,
+                "discount_price": 267.26
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 686.29,
+                "discount_price": 624.52
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 486.75,
+                "discount_price": 438.07
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 877.7,
+                "discount_price": 833.82
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 449.27,
+                "discount_price": 422.31
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 363.88,
+                "discount_price": 334.77
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 128.94,
+                "discount_price": 113.47
+            }
+        ],
+        "total": 4866.11,
+        "total_discount_price": 4518.99,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_81": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 190.52,
+                "discount_price": 167.66
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 602.24,
+                "discount_price": 572.13
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 418.99,
+                "discount_price": 389.66
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1013.94,
+                "discount_price": 942.96
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 281.55,
+                "discount_price": 253.4
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 974.5,
+                "discount_price": 916.03
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 891.13,
+                "discount_price": 784.19
+            }
+        ],
+        "total": 4372.87,
+        "total_discount_price": 4026.03,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_82": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1055.99
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 603.94
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 309.73
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 111.58
+            }
+        ],
+        "total": 2081.24,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_83": {
+        "shopping_cart": [
+            {
+                "product": "Braun Electric Shaver",
+                "price": 454.4,
+                "discount_price": 399.87
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 143.38,
+                "discount_price": 126.17
+            }
+        ],
+        "total": 597.78,
+        "total_discount_price": 526.04,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_84": {
+        "shopping_cart": [
+            {
+                "product": "Ninja Blender",
+                "price": 1357.73,
+                "discount_price": 1208.38
+            },
+            {
+                "product": "LG Washing Machine",
+                "price": 916.66,
+                "discount_price": 843.33
+            }
+        ],
+        "total": 2274.39,
+        "total_discount_price": 2051.71,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_85": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 61.36,
+                "discount_price": 54.61
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 428.86,
+                "discount_price": 385.97
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 1335.28,
+                "discount_price": 1228.46
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 587.51,
+                "discount_price": 558.13
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 1408.12,
+                "discount_price": 1253.23
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 233.27,
+                "discount_price": 212.28
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1334.85,
+                "discount_price": 1188.02
+            }
+        ],
+        "total": 5389.25,
+        "total_discount_price": 4880.7,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_86": {
+        "shopping_cart": [
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 671.47
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 224.51
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 104.54
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 430.05
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 1159.32
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 169.96
+            }
+        ],
+        "total": 2759.85,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_87": {
+        "shopping_cart": [
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 447.4
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1420.82
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 242.36
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 782.79
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 124.44
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 389.78
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 1112.3
+            }
+        ],
+        "total": 4519.89,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_88": {
+        "shopping_cart": [
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1245.33
+            },
+            {
+                "product": "LG Washing Machine",
+                "price": 454.84
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 864.29
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1007.87
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 535.16
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1005.51
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 1210.48
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 636.15
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 422.58
+            }
+        ],
+        "total": 7382.21,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_89": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 607.92,
+                "discount_price": 553.21
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1045.89,
+                "discount_price": 962.22
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 635.96,
+                "discount_price": 572.36
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 539.66,
+                "discount_price": 512.68
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1455.74,
+                "discount_price": 1310.17
+            }
+        ],
+        "total": 4285.17,
+        "total_discount_price": 3910.64,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_90": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1313.81
+            }
+        ],
+        "total": 1313.81,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_91": {
+        "shopping_cart": [
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 1262.64
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1391.55
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 664.09
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 888.0
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 583.41
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 280.76
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 1431.19
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 411.98
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1198.3
+            }
+        ],
+        "total": 8111.92,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_92": {
+        "shopping_cart": [
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 1281.11
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 1062.18
+            }
+        ],
+        "total": 2343.29,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_93": {
+        "shopping_cart": [
+            {
+                "product": "Apple MacBook Pro",
+                "price": 81.13,
+                "discount_price": 73.02
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 940.05,
+                "discount_price": 836.64
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 104.54,
+                "discount_price": 96.18
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 863.66,
+                "discount_price": 820.48
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1268.95,
+                "discount_price": 1129.37
+            }
+        ],
+        "total": 3258.33,
+        "total_discount_price": 2955.69,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_94": {
+        "shopping_cart": [
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1271.17
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 298.54
+            }
+        ],
+        "total": 1569.71,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_95": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 355.22,
+                "discount_price": 326.8
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1090.79,
+                "discount_price": 992.62
+            }
+        ],
+        "total": 1446.01,
+        "total_discount_price": 1319.42,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_96": {
+        "shopping_cart": [
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 42.14
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 1033.04
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 1307.31
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 713.93
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 568.12
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 287.93
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 972.15
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 1125.39
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 234.43
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 107.27
+            }
+        ],
+        "total": 6391.71,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_97": {
+        "shopping_cart": [
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 324.32,
+                "discount_price": 285.4
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 334.04,
+                "discount_price": 297.3
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 135.84,
+                "discount_price": 124.97
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 574.27,
+                "discount_price": 516.84
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 1255.96,
+                "discount_price": 1117.8
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 978.52,
+                "discount_price": 870.88
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 681.11,
+                "discount_price": 626.62
+            }
+        ],
+        "total": 4284.06,
+        "total_discount_price": 3839.81,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_98": {
+        "shopping_cart": [
+            {
+                "product": "LG Washing Machine",
+                "price": 454.84
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 956.9
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 176.05
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 1349.02
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 615.36
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 97.31
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 693.03
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1012.09
+            }
+        ],
+        "total": 5354.6,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_99": {
+        "shopping_cart": [
+            {
+                "product": "Maybelline Mascara",
+                "price": 292.27
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 124.44
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 135.58
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 239.82
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 483.06
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 559.37
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1029.06
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 857.35
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 917.75
+            }
+        ],
+        "total": 4638.7,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_100": {
+        "shopping_cart": [
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1045.89,
+                "discount_price": 962.22
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 313.36,
+                "discount_price": 285.16
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1029.06,
+                "discount_price": 936.44
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 587.67,
+                "discount_price": 517.15
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 223.17,
+                "discount_price": 198.62
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1220.22,
+                "discount_price": 1159.21
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 1220.4,
+                "discount_price": 1147.18
+            }
+        ],
+        "total": 5639.77,
+        "total_discount_price": 5205.98,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_101": {
+        "shopping_cart": [
+            {
+                "product": "Fitbit Charge 4",
+                "price": 891.83
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 917.03
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 351.77
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 341.71
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 684.67
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 991.4
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 959.51
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 380.09
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 46.09
+            }
+        ],
+        "total": 5564.1,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_102": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 574.2
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 1357.73
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 864.29
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 640.54
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 1070.45
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 266.88
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 1409.93
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 829.43
+            }
+        ],
+        "total": 7013.45,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_103": {
+        "shopping_cart": [
+            {
+                "product": "Makita Circular Saw",
+                "price": 335.12
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 269.11
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 454.4
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1200.84
+            }
+        ],
+        "total": 2259.47,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_104": {
+        "shopping_cart": [
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1115.76,
+                "discount_price": 1015.34
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 809.97,
+                "discount_price": 720.87
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 1117.59,
+                "discount_price": 1061.71
+            }
+        ],
+        "total": 3043.32,
+        "total_discount_price": 2797.92,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_105": {
+        "shopping_cart": [
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 33.17
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1000.62
+            }
+        ],
+        "total": 1033.79,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_106": {
+        "shopping_cart": [
+            {
+                "product": "Nike Air Max 270",
+                "price": 1358.92
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 38.34
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 152.1
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 861.24
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 299.14
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1002.95
+            }
+        ],
+        "total": 3712.69,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_107": {
+        "shopping_cart": [
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1383.18,
+                "discount_price": 1314.02
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1235.82,
+                "discount_price": 1161.67
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 335.12,
+                "discount_price": 294.91
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 391.83,
+                "discount_price": 348.73
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 535.2,
+                "discount_price": 476.33
+            }
+        ],
+        "total": 3881.15,
+        "total_discount_price": 3595.66,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_108": {
+        "shopping_cart": [
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 426.33
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 672.8
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 1332.91
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 1345.94
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 603.58
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 33.26
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 711.62
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 708.84
+            }
+        ],
+        "total": 5835.28,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_109": {
+        "shopping_cart": [
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 828.83,
+                "discount_price": 745.95
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 972.68,
+                "discount_price": 904.59
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 309.73,
+                "discount_price": 284.95
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1166.99,
+                "discount_price": 1108.64
+            }
+        ],
+        "total": 3278.23,
+        "total_discount_price": 3044.13,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_110": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 358.5,
+                "discount_price": 336.99
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 72.57,
+                "discount_price": 68.94
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 661.43,
+                "discount_price": 588.67
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 729.55,
+                "discount_price": 671.19
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 535.2,
+                "discount_price": 476.33
+            }
+        ],
+        "total": 2357.25,
+        "total_discount_price": 2142.12,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_111": {
+        "shopping_cart": [
+            {
+                "product": "Nike Air Max 270",
+                "price": 263.72,
+                "discount_price": 245.26
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 107.03,
+                "discount_price": 99.54
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 239.26,
+                "discount_price": 222.51
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 872.99,
+                "discount_price": 811.88
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 1089.99,
+                "discount_price": 1035.49
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1271.17,
+                "discount_price": 1118.63
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 785.78,
+                "discount_price": 746.49
+            }
+        ],
+        "total": 4629.94,
+        "total_discount_price": 4279.8,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_112": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 93.46
+            }
+        ],
+        "total": 93.46,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_113": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 1176.93
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1071.97
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 37.62
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 724.75
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 727.79
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1340.4
+            }
+        ],
+        "total": 5079.46,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_114": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1197.82,
+                "discount_price": 1113.97
+            }
+        ],
+        "total": 1197.82,
+        "total_discount_price": 1113.97,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_115": {
+        "shopping_cart": [
+            {
+                "product": "Instant Pot Duo",
+                "price": 124.37,
+                "discount_price": 116.91
+            },
+            {
+                "product": "LG Washing Machine",
+                "price": 916.66,
+                "discount_price": 843.33
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 997.45,
+                "discount_price": 877.76
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 1216.6,
+                "discount_price": 1119.27
+            }
+        ],
+        "total": 3255.08,
+        "total_discount_price": 2957.27,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_116": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 634.77
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 612.31
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 559.37
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 615.79
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 272.67
+            }
+        ],
+        "total": 2694.91,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_117": {
+        "shopping_cart": [
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 280.76,
+                "discount_price": 263.91
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 182.63,
+                "discount_price": 160.71
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 891.59,
+                "discount_price": 847.01
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 50.7,
+                "discount_price": 46.14
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1401.2,
+                "discount_price": 1247.07
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 542.56,
+                "discount_price": 510.01
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 288.14,
+                "discount_price": 256.44
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 901.16,
+                "discount_price": 802.03
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1234.18,
+                "discount_price": 1160.13
+            }
+        ],
+        "total": 5772.92,
+        "total_discount_price": 5293.45,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_118": {
+        "shopping_cart": [
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 1101.91
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 868.22
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1383.18
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 222.94
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1391.55
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 212.53
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1271.17
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1328.25
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1254.88
+            }
+        ],
+        "total": 9034.63,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_119": {
+        "shopping_cart": [
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 882.74
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 1123.99
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1041.24
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 222.94
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 47.04
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 1250.68
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 254.94
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 798.2
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 800.42
+            }
+        ],
+        "total": 6422.19,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_120": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 28.63
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 119.07
+            }
+        ],
+        "total": 147.7,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_121": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1056.73
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 443.4
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1272.01
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 1499.82
+            }
+        ],
+        "total": 4271.96,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_122": {
+        "shopping_cart": [
+            {
+                "product": "Bosch Dishwasher",
+                "price": 312.52,
+                "discount_price": 293.77
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 364.73,
+                "discount_price": 324.61
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 602.07,
+                "discount_price": 547.88
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 387.57,
+                "discount_price": 360.44
+            }
+        ],
+        "total": 1666.89,
+        "total_discount_price": 1526.7,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_123": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 99.57
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 969.73
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 1256.57
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 892.19
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 632.92
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1484.13
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 1494.39
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 430.52
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 202.28
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1327.83
+            }
+        ],
+        "total": 8790.13,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_124": {
+        "shopping_cart": [
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 38.5,
+                "discount_price": 36.58
+            }
+        ],
+        "total": 38.5,
+        "total_discount_price": 36.58,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_125": {
+        "shopping_cart": [
+            {
+                "product": "Phillips Airfryer",
+                "price": 1216.6
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 99.57
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 249.1
+            }
+        ],
+        "total": 1565.27,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_126": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1114.95
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 430.99
+            }
+        ],
+        "total": 1545.94,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_127": {
+        "shopping_cart": [
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1273.96,
+                "discount_price": 1133.82
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1346.48,
+                "discount_price": 1238.76
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 940.46,
+                "discount_price": 837.01
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 259.35,
+                "discount_price": 228.23
+            },
+            {
+                "product": "LG Washing Machine",
+                "price": 251.31,
+                "discount_price": 221.15
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 817.77,
+                "discount_price": 727.82
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1459.26,
+                "discount_price": 1371.7
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 457.44,
+                "discount_price": 425.42
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1124.67,
+                "discount_price": 1012.2
+            }
+        ],
+        "total": 7930.7,
+        "total_discount_price": 7196.11,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_128": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1234.18,
+                "discount_price": 1160.13
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 607.92,
+                "discount_price": 553.21
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 1012.17,
+                "discount_price": 951.44
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1359.74,
+                "discount_price": 1196.57
+            },
+            {
+                "product": "LG Washing Machine",
+                "price": 251.31,
+                "discount_price": 221.15
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 340.32,
+                "discount_price": 319.9
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 271.3,
+                "discount_price": 241.46
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 318.01,
+                "discount_price": 295.75
+            }
+        ],
+        "total": 5394.95,
+        "total_discount_price": 4939.61,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_129": {
+        "shopping_cart": [
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 1239.07,
+                "discount_price": 1177.12
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 1204.23,
+                "discount_price": 1095.85
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 785.78,
+                "discount_price": 746.49
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 841.76,
+                "discount_price": 749.17
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 311.28,
+                "discount_price": 277.04
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 921.63,
+                "discount_price": 875.55
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 314.59,
+                "discount_price": 298.86
+            }
+        ],
+        "total": 5618.34,
+        "total_discount_price": 5220.08,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_130": {
+        "shopping_cart": [
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1383.18,
+                "discount_price": 1314.02
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 917.03,
+                "discount_price": 871.18
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 1323.0,
+                "discount_price": 1177.47
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 152.25,
+                "discount_price": 135.5
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 890.43,
+                "discount_price": 792.48
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 645.0,
+                "discount_price": 574.05
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1169.99,
+                "discount_price": 1052.99
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 876.52,
+                "discount_price": 797.63
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1155.52,
+                "discount_price": 1086.19
+            }
+        ],
+        "total": 8512.92,
+        "total_discount_price": 7801.51,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_131": {
+        "shopping_cart": [
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 455.61,
+                "discount_price": 405.49
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 167.09,
+                "discount_price": 148.71
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 1216.6,
+                "discount_price": 1119.27
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 548.14,
+                "discount_price": 487.84
+            }
+        ],
+        "total": 2387.44,
+        "total_discount_price": 2161.31,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_132": {
+        "shopping_cart": [
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1012.09
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 224.96
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 886.23
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 698.01
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 460.84
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 460.12
+            }
+        ],
+        "total": 3742.25,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_133": {
+        "shopping_cart": [
+            {
+                "product": "Stanley Tool Box",
+                "price": 442.75,
+                "discount_price": 407.33
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1045.89,
+                "discount_price": 962.22
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 93.14,
+                "discount_price": 82.89
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1383.18,
+                "discount_price": 1314.02
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 904.21,
+                "discount_price": 804.75
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1061.44,
+                "discount_price": 944.68
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 953.37,
+                "discount_price": 848.5
+            }
+        ],
+        "total": 5883.98,
+        "total_discount_price": 5364.39,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_134": {
+        "shopping_cart": [
+            {
+                "product": "Puma Running Shorts",
+                "price": 750.52
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1456.59
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1445.4
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 444.31
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 161.38
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 45.15
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 1354.48
+            }
+        ],
+        "total": 5657.83,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_135": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 194.18
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 716.71
+            }
+        ],
+        "total": 910.89,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_136": {
+        "shopping_cart": [
+            {
+                "product": "Maybelline Mascara",
+                "price": 340.32
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 74.63
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1222.35
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 290.84
+            }
+        ],
+        "total": 1928.14,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_137": {
+        "shopping_cart": [
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 175.36
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 557.98
+            }
+        ],
+        "total": 733.34,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_138": {
+        "shopping_cart": [
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 727.79
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 1487.56
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1268.02
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 974.29
+            }
+        ],
+        "total": 4457.66,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_139": {
+        "shopping_cart": [
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 1359.04,
+                "discount_price": 1236.73
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1319.88,
+                "discount_price": 1214.29
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 422.58,
+                "discount_price": 376.1
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 759.62,
+                "discount_price": 706.45
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 867.14,
+                "discount_price": 815.11
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1352.77,
+                "discount_price": 1203.97
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 1089.37,
+                "discount_price": 958.65
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 531.52,
+                "discount_price": 494.31
+            }
+        ],
+        "total": 7701.92,
+        "total_discount_price": 7005.61,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_140": {
+        "shopping_cart": [
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 635.25
+            },
+            {
+                "product": "Timex Ironman Watch",
+                "price": 1169.99
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 1239.07
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 419.01
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 1249.5
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1172.36
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1122.09
+            }
+        ],
+        "total": 7007.27,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_141": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1005.73,
+                "discount_price": 915.21
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 268.83,
+                "discount_price": 252.7
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 529.07,
+                "discount_price": 470.87
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 324.54,
+                "discount_price": 288.84
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 506.32,
+                "discount_price": 445.56
+            }
+        ],
+        "total": 2634.49,
+        "total_discount_price": 2373.18,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_142": {
+        "shopping_cart": [
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 93.46,
+                "discount_price": 88.79
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 249.1,
+                "discount_price": 231.66
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 891.83,
+                "discount_price": 811.57
+            }
+        ],
+        "total": 1234.39,
+        "total_discount_price": 1132.02,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_143": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 460.98
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 475.15
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 426.33
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 825.17
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 1402.7
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 287.93
+            }
+        ],
+        "total": 3878.26,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_144": {
+        "shopping_cart": [
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 1209.23,
+                "discount_price": 1112.49
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 1419.33,
+                "discount_price": 1263.2
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 224.96,
+                "discount_price": 206.96
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 898.53,
+                "discount_price": 808.68
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 519.54,
+                "discount_price": 462.39
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 1233.1,
+                "discount_price": 1085.13
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 1293.32,
+                "discount_price": 1176.92
+            }
+        ],
+        "total": 6798.01,
+        "total_discount_price": 6115.77,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_145": {
+        "shopping_cart": [
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1308.11
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 247.77
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1071.71
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 450.16
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 917.75
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 33.17
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1294.47
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 812.14
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1455.74
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 587.67
+            }
+        ],
+        "total": 8178.69,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_146": {
+        "shopping_cart": [
+            {
+                "product": "Braun Electric Shaver",
+                "price": 1419.33,
+                "discount_price": 1263.2
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 143.7,
+                "discount_price": 135.08
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 74.69,
+                "discount_price": 65.73
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 181.17,
+                "discount_price": 163.05
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 422.01,
+                "discount_price": 388.25
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 1499.82,
+                "discount_price": 1319.84
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 295.1,
+                "discount_price": 259.69
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 765.15,
+                "discount_price": 696.29
+            }
+        ],
+        "total": 4800.97,
+        "total_discount_price": 4291.13,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_147": {
+        "shopping_cart": [
+            {
+                "product": "Puma Running Shorts",
+                "price": 486.75,
+                "discount_price": 438.07
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 643.98,
+                "discount_price": 579.58
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1396.32,
+                "discount_price": 1270.65
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 864.29,
+                "discount_price": 821.08
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 877.7,
+                "discount_price": 833.82
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1320.34,
+                "discount_price": 1188.31
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 1349.02,
+                "discount_price": 1281.57
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1234.18,
+                "discount_price": 1160.13
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 744.38,
+                "discount_price": 677.39
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 1278.29,
+                "discount_price": 1137.68
+            }
+        ],
+        "total": 10195.25,
+        "total_discount_price": 9388.28,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_148": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 28.63,
+                "discount_price": 26.63
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 526.65,
+                "discount_price": 489.78
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 1223.95,
+                "discount_price": 1162.75
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 425.25,
+                "discount_price": 386.98
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 317.13,
+                "discount_price": 279.07
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 681.11,
+                "discount_price": 626.62
+            }
+        ],
+        "total": 3202.72,
+        "total_discount_price": 2971.83,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_149": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Edge 530",
+                "price": 889.31,
+                "discount_price": 809.27
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 917.75,
+                "discount_price": 844.33
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 948.58,
+                "discount_price": 872.69
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 765.15,
+                "discount_price": 696.29
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 995.83,
+                "discount_price": 886.29
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 956.9,
+                "discount_price": 899.49
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 859.27,
+                "discount_price": 764.75
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 989.42,
+                "discount_price": 920.16
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 834.35,
+                "discount_price": 792.63
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 405.77,
+                "discount_price": 377.37
+            }
+        ],
+        "total": 8562.33,
+        "total_discount_price": 7863.27,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_150": {
+        "shopping_cart": [
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1280.97,
+                "discount_price": 1165.68
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 1079.59,
+                "discount_price": 960.84
+            }
+        ],
+        "total": 2360.56,
+        "total_discount_price": 2126.52,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_151": {
+        "shopping_cart": [
+            {
+                "product": "Makita Circular Saw",
+                "price": 181.17
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 135.84
+            },
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1383.16
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 100.75
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1359.74
+            }
+        ],
+        "total": 3160.66,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_152": {
+        "shopping_cart": [
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 33.17,
+                "discount_price": 29.85
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 853.45,
+                "discount_price": 802.24
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 377.59,
+                "discount_price": 358.71
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 726.94,
+                "discount_price": 683.32
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 1197.45,
+                "discount_price": 1137.58
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1158.18,
+                "discount_price": 1100.27
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 335.75,
+                "discount_price": 318.96
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 251.52,
+                "discount_price": 238.94
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1045.89,
+                "discount_price": 962.22
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1020.42,
+                "discount_price": 969.4
+            }
+        ],
+        "total": 7000.36,
+        "total_discount_price": 6601.49,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_153": {
+        "shopping_cart": [
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 387.57
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1307.27
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 125.64
+            },
+            {
+                "product": "LG Washing Machine",
+                "price": 1254.01
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 100.75
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 929.19
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 1005.49
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 978.52
+            }
+        ],
+        "total": 6088.44,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_154": {
+        "shopping_cart": [
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 457.44
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 1175.83
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 755.28
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 224.51
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 339.98
+            },
+            {
+                "product": "Garmin Edge 530",
+                "price": 57.14
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 372.08
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 126.74
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 445.08
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1145.84
+            }
+        ],
+        "total": 5099.92,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_155": {
+        "shopping_cart": [
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 911.4,
+                "discount_price": 802.03
+            }
+        ],
+        "total": 911.4,
+        "total_discount_price": 802.03,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_156": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1364.79,
+                "discount_price": 1282.9
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 1182.84,
+                "discount_price": 1076.38
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 312.52,
+                "discount_price": 293.77
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 486.75,
+                "discount_price": 438.07
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1093.24,
+                "discount_price": 1027.65
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 542.56,
+                "discount_price": 510.01
+            }
+        ],
+        "total": 4982.7,
+        "total_discount_price": 4628.78,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_157": {
+        "shopping_cart": [
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 408.23,
+                "discount_price": 363.32
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 1029.31,
+                "discount_price": 936.67
+            },
+            {
+                "product": "Polar H10 Heart Rate Sensor",
+                "price": 293.88,
+                "discount_price": 264.49
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 152.25,
+                "discount_price": 135.5
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 545.6,
+                "discount_price": 485.58
+            }
+        ],
+        "total": 2429.27,
+        "total_discount_price": 2185.56,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_158": {
+        "shopping_cart": [
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 1033.04
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 813.11
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 111.58
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 419.01
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 536.03
+            }
+        ],
+        "total": 2912.77,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_159": {
+        "shopping_cart": [
+            {
+                "product": "Ninja Blender",
+                "price": 196.68,
+                "discount_price": 178.98
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 1484.51,
+                "discount_price": 1365.75
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1409.87,
+                "discount_price": 1268.88
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 247.77,
+                "discount_price": 230.43
+            }
+        ],
+        "total": 3338.83,
+        "total_discount_price": 3044.04,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_160": {
+        "shopping_cart": [
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 55.54,
+                "discount_price": 52.76
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 239.82,
+                "discount_price": 223.03
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 886.28,
+                "discount_price": 841.97
+            }
+        ],
+        "total": 1181.64,
+        "total_discount_price": 1117.76,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_161": {
+        "shopping_cart": [
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 1332.91
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 405.77
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1140.39
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 425.25
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 1409.93
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 232.81
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 603.94
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 1404.87
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 529.5
+            }
+        ],
+        "total": 7485.37,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_162": {
+        "shopping_cart": [
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 411.29
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 1430.83
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 987.02
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 384.75
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1122.09
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 430.99
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 727.79
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 311.81
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 523.68
+            }
+        ],
+        "total": 6330.25,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_163": {
+        "shopping_cart": [
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1351.88,
+                "discount_price": 1216.69
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 1063.27,
+                "discount_price": 967.58
+            }
+        ],
+        "total": 2415.15,
+        "total_discount_price": 2184.27,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_164": {
+        "shopping_cart": [
+            {
+                "product": "Ninja Blender",
+                "price": 730.78
+            }
+        ],
+        "total": 730.78,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_165": {
+        "shopping_cart": [
+            {
+                "product": "Makita Circular Saw",
+                "price": 181.17,
+                "discount_price": 163.05
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 672.8,
+                "discount_price": 605.52
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 1354.48,
+                "discount_price": 1205.49
+            }
+        ],
+        "total": 2208.45,
+        "total_discount_price": 1974.06,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_166": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 239.56
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 290.84
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1456.59
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1251.79
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1279.21
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 739.99
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 977.99
+            }
+        ],
+        "total": 6235.97,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_167": {
+        "shopping_cart": [
+            {
+                "product": "Champion Sweatshirt",
+                "price": 377.59
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1456.59
+            },
+            {
+                "product": "Phillips Airfryer",
+                "price": 251.52
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 574.27
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 119.07
+            },
+            {
+                "product": "JBL Flip 5 Speaker",
+                "price": 1349.02
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 519.54
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 474.49
+            }
+        ],
+        "total": 5122.09,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_168": {
+        "shopping_cart": [
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 632.92,
+                "discount_price": 569.63
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 583.41,
+                "discount_price": 519.23
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 176.05,
+                "discount_price": 161.97
+            }
+        ],
+        "total": 1392.38,
+        "total_discount_price": 1250.83,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_169": {
+        "shopping_cart": [
+            {
+                "product": "Garnier Micellar Water",
+                "price": 1257.44,
+                "discount_price": 1181.99
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 948.51,
+                "discount_price": 882.11
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 61.36,
+                "discount_price": 54.61
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1200.84,
+                "discount_price": 1116.78
+            }
+        ],
+        "total": 3468.15,
+        "total_discount_price": 3235.49,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_170": {
+        "shopping_cart": [
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1328.25,
+                "discount_price": 1235.27
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 200.96,
+                "discount_price": 180.86
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1383.18,
+                "discount_price": 1314.02
+            }
+        ],
+        "total": 2912.39,
+        "total_discount_price": 2730.15,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_171": {
+        "shopping_cart": [
+            {
+                "product": "Olay Total Effects",
+                "price": 1293.81,
+                "discount_price": 1138.55
+            }
+        ],
+        "total": 1293.81,
+        "total_discount_price": 1138.55,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_172": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 1380.91,
+                "discount_price": 1256.63
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 459.41,
+                "discount_price": 431.85
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 516.34,
+                "discount_price": 475.03
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 504.91,
+                "discount_price": 454.42
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 1183.44,
+                "discount_price": 1053.26
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 335.12,
+                "discount_price": 294.91
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 953.37,
+                "discount_price": 848.5
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 280.64,
+                "discount_price": 261.0
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 69.3,
+                "discount_price": 63.06
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 592.8,
+                "discount_price": 527.59
+            }
+        ],
+        "total": 6276.24,
+        "total_discount_price": 5666.25,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_173": {
+        "shopping_cart": [
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 290.84
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 781.06
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 46.08
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 1152.3
+            },
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 574.2
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 651.38
+            }
+        ],
+        "total": 3495.86,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_174": {
+        "shopping_cart": [
+            {
+                "product": "Puma Running Shorts",
+                "price": 862.98
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 1247.9
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 1209.23
+            },
+            {
+                "product": "Puma Running Shorts",
+                "price": 531.52
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1002.95
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 1122.27
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 227.5
+            }
+        ],
+        "total": 6204.35,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_175": {
+        "shopping_cart": [
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1164.9,
+                "discount_price": 1060.06
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 1158.18,
+                "discount_price": 1100.27
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 504.91,
+                "discount_price": 454.42
+            }
+        ],
+        "total": 2827.99,
+        "total_discount_price": 2614.75,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_176": {
+        "shopping_cart": [
+            {
+                "product": "Craftsman Tool Set",
+                "price": 1007.87
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 1166.6
+            },
+            {
+                "product": "Nike Air Max 270",
+                "price": 506.32
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 494.76
+            }
+        ],
+        "total": 3175.55,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_177": {
+        "shopping_cart": [
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1020.42,
+                "discount_price": 969.4
+            }
+        ],
+        "total": 1020.42,
+        "total_discount_price": 969.4,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_178": {
+        "shopping_cart": [
+            {
+                "product": "Whirlpool Refrigerator",
+                "price": 460.84,
+                "discount_price": 410.15
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 255.81,
+                "discount_price": 237.9
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1214.45,
+                "discount_price": 1141.58
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 411.29,
+                "discount_price": 378.39
+            },
+            {
+                "product": "Garmin Forerunner 945",
+                "price": 460.98,
+                "discount_price": 405.66
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 635.25,
+                "discount_price": 559.02
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 204.94,
+                "discount_price": 188.54
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 1294.47,
+                "discount_price": 1152.08
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 898.53,
+                "discount_price": 808.68
+            }
+        ],
+        "total": 5836.56,
+        "total_discount_price": 5282.0,
+        "cashier": "Cashier_3"
+    },
+    "Costumer_179": {
+        "shopping_cart": [
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 911.4
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1384.06
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 295.1
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 1324.86
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 442.75
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 1061.72
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 734.9
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 615.36
+            },
+            {
+                "product": "The North Face Parka",
+                "price": 118.19
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 635.65
+            }
+        ],
+        "total": 7523.99,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_180": {
+        "shopping_cart": [
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1122.09,
+                "discount_price": 998.66
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 1159.32,
+                "discount_price": 1101.35
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 1330.55,
+                "discount_price": 1197.49
+            }
+        ],
+        "total": 3611.96,
+        "total_discount_price": 3297.5,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_181": {
+        "shopping_cart": [
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 1035.02
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 239.82
+            },
+            {
+                "product": "Clinique Moisture Surge",
+                "price": 1222.35
+            },
+            {
+                "product": "Bosch Dishwasher",
+                "price": 92.67
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1254.88
+            }
+        ],
+        "total": 3844.74,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_182": {
+        "shopping_cart": [
+            {
+                "product": "Ninja Blender",
+                "price": 389.78
+            },
+            {
+                "product": "Ninja Blender",
+                "price": 1270.58
+            }
+        ],
+        "total": 1660.36,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_183": {
+        "shopping_cart": [
+            {
+                "product": "Stanley Tool Box",
+                "price": 1374.25,
+                "discount_price": 1250.57
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 834.61,
+                "discount_price": 792.88
+            },
+            {
+                "product": "Samsung 65\" QLED TV",
+                "price": 55.54,
+                "discount_price": 52.76
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 1326.4,
+                "discount_price": 1233.55
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 1033.04,
+                "discount_price": 929.74
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 1103.55,
+                "discount_price": 993.2
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 1079.59,
+                "discount_price": 960.84
+            },
+            {
+                "product": "Garnier Micellar Water",
+                "price": 981.1,
+                "discount_price": 863.37
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 81.13,
+                "discount_price": 73.02
+            }
+        ],
+        "total": 7869.21,
+        "total_discount_price": 7149.93,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_184": {
+        "shopping_cart": [
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 1397.92
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 907.66
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 1195.9
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 266.88
+            },
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1034.69
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 399.28
+            }
+        ],
+        "total": 5202.33,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_185": {
+        "shopping_cart": [
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 1268.95
+            }
+        ],
+        "total": 1268.95,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_186": {
+        "shopping_cart": [
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 798.2,
+                "discount_price": 726.36
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1214.45,
+                "discount_price": 1141.58
+            },
+            {
+                "product": "MSI Gaming Monitor",
+                "price": 828.83,
+                "discount_price": 745.95
+            },
+            {
+                "product": "DeWalt Cordless Drill",
+                "price": 1437.5,
+                "discount_price": 1265.0
+            }
+        ],
+        "total": 4278.98,
+        "total_discount_price": 3878.89,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_187": {
+        "shopping_cart": [
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 1322.34,
+                "discount_price": 1216.55
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 232.81,
+                "discount_price": 211.86
+            },
+            {
+                "product": "Instant Pot Duo",
+                "price": 1494.39,
+                "discount_price": 1330.01
+            },
+            {
+                "product": "Levi's 501 Original Jeans",
+                "price": 288.14,
+                "discount_price": 256.44
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 9.31,
+                "discount_price": 8.57
+            },
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 632.92,
+                "discount_price": 569.63
+            },
+            {
+                "product": "Fitbit Charge 4",
+                "price": 624.82,
+                "discount_price": 581.08
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 555.99,
+                "discount_price": 511.51
+            }
+        ],
+        "total": 5160.72,
+        "total_discount_price": 4685.65,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_188": {
+        "shopping_cart": [
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 791.45,
+                "discount_price": 720.22
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 1012.17,
+                "discount_price": 951.44
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 65.38,
+                "discount_price": 61.46
+            },
+            {
+                "product": "Black+Decker Toaster Oven",
+                "price": 1068.24,
+                "discount_price": 950.73
+            }
+        ],
+        "total": 2937.24,
+        "total_discount_price": 2683.85,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_189": {
+        "shopping_cart": [
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 1031.52
+            },
+            {
+                "product": "Maybelline Mascara",
+                "price": 1274.98
+            },
+            {
+                "product": "Olay Total Effects",
+                "price": 1385.32
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1140.39
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 917.75
+            },
+            {
+                "product": "Hamilton Beach Coffee Maker",
+                "price": 27.41
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 698.01
+            }
+        ],
+        "total": 6475.38,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_190": {
+        "shopping_cart": [
+            {
+                "product": "Oral-B Electric Toothbrush",
+                "price": 87.69
+            },
+            {
+                "product": "Craftsman Tool Set",
+                "price": 371.78
+            }
+        ],
+        "total": 459.47,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_191": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 713.93,
+                "discount_price": 678.23
+            },
+            {
+                "product": "Olay Regenerist Cream",
+                "price": 581.1,
+                "discount_price": 552.04
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 355.94,
+                "discount_price": 323.91
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 65.38,
+                "discount_price": 61.46
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 1129.66,
+                "discount_price": 1005.4
+            },
+            {
+                "product": "T-Fal Cookware Set",
+                "price": 1033.04,
+                "discount_price": 929.74
+            },
+            {
+                "product": "Under Armour Hoodie",
+                "price": 1301.08,
+                "discount_price": 1236.03
+            }
+        ],
+        "total": 5180.13,
+        "total_discount_price": 4786.81,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_192": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1000.62,
+                "discount_price": 910.56
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 319.59,
+                "discount_price": 294.02
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 38.34,
+                "discount_price": 34.51
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 1498.27,
+                "discount_price": 1423.36
+            }
+        ],
+        "total": 2856.82,
+        "total_discount_price": 2662.45,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_193": {
+        "shopping_cart": [
+            {
+                "product": "Dyson V11 Vacuum",
+                "price": 1005.73
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 48.94
+            },
+            {
+                "product": "Champion Sweatshirt",
+                "price": 574.65
+            },
+            {
+                "product": "Vichy Mineral 89 Serum",
+                "price": 1454.67
+            },
+            {
+                "product": "Adidas Ultraboost Shoes",
+                "price": 175.36
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 172.82
+            }
+        ],
+        "total": 3432.17,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_194": {
+        "shopping_cart": [
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 545.6,
+                "discount_price": 485.58
+            },
+            {
+                "product": "Philips Sonicare Toothbrush",
+                "price": 548.14,
+                "discount_price": 487.84
+            },
+            {
+                "product": "Salomon Trail Running Shoes",
+                "price": 248.13,
+                "discount_price": 235.72
+            },
+            {
+                "product": "Keurig Coffee Maker",
+                "price": 680.76,
+                "discount_price": 633.11
+            },
+            {
+                "product": "Skil Cordless Screwdriver",
+                "price": 1159.32,
+                "discount_price": 1101.35
+            },
+            {
+                "product": "Sony WH-1000XM4 Headphones",
+                "price": 338.89,
+                "discount_price": 305.0
+            }
+        ],
+        "total": 3520.84,
+        "total_discount_price": 3248.6,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_195": {
+        "shopping_cart": [
+            {
+                "product": "Garmin Edge 530",
+                "price": 152.1,
+                "discount_price": 133.85
+            }
+        ],
+        "total": 152.1,
+        "total_discount_price": 133.85,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_196": {
+        "shopping_cart": [
+            {
+                "product": "Stanley Tool Box",
+                "price": 989.42,
+                "discount_price": 920.16
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 445.08,
+                "discount_price": 409.47
+            }
+        ],
+        "total": 1434.5,
+        "total_discount_price": 1329.63,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_197": {
+        "shopping_cart": [
+            {
+                "product": "Bose QuietComfort 35 II",
+                "price": 714.75
+            },
+            {
+                "product": "Makita Circular Saw",
+                "price": 502.54
+            }
+        ],
+        "total": 1217.29,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_198": {
+        "shopping_cart": [
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1020.42,
+                "discount_price": 969.4
+            },
+            {
+                "product": "Columbia Fleece Jacket",
+                "price": 1322.34,
+                "discount_price": 1216.55
+            },
+            {
+                "product": "Samsung Galaxy S21",
+                "price": 190.52,
+                "discount_price": 167.66
+            }
+        ],
+        "total": 2533.28,
+        "total_discount_price": 2353.61,
+        "cashier": "Cashier_1"
+    },
+    "Costumer_199": {
+        "shopping_cart": [
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 290.84
+            },
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1183.12
+            },
+            {
+                "product": "Apple MacBook Pro",
+                "price": 81.13
+            },
+            {
+                "product": "Neutrogena Hydro Boost Gel",
+                "price": 898.8
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 900.86
+            },
+            {
+                "product": "Patagonia Down Jacket",
+                "price": 1354.61
+            }
+        ],
+        "total": 4709.36,
+        "cashier": "Cashier_2"
+    },
+    "Costumer_200": {
+        "shopping_cart": [
+            {
+                "product": "Canon EOS Rebel Camera",
+                "price": 1035.17,
+                "discount_price": 962.71
+            },
+            {
+                "product": "L'Or\u0106\u00a9al Paris Shampoo",
+                "price": 172.82,
+                "discount_price": 158.99
+            },
+            {
+                "product": "Reebok Workout Leggings",
+                "price": 93.46,
+                "discount_price": 88.79
+            },
+            {
+                "product": "DeLonghi Espresso Machine",
+                "price": 745.75,
+                "discount_price": 678.63
+            },
+            {
+                "product": "Huffy Cruiser Bike",
+                "price": 287.37,
+                "discount_price": 255.76
+            },
+            {
+                "product": "Stanley Tool Box",
+                "price": 1338.11,
+                "discount_price": 1217.68
+            },
+            {
+                "product": "Braun Electric Shaver",
+                "price": 782.94,
+                "discount_price": 704.65
+            },
+            {
+                "product": "KitchenAid Stand Mixer",
+                "price": 1455.98,
+                "discount_price": 1383.18
+            },
+            {
+                "product": "Asus ROG Gaming Laptop",
+                "price": 1197.45,
+                "discount_price": 1137.58
+            },
+            {
+                "product": "Trek Marlin 7 Mountain Bike",
+                "price": 1332.91,
+                "discount_price": 1172.96
+            }
+        ],
+        "total": 8441.96,
+        "total_discount_price": 7760.93,
+        "cashier": "Cashier_1"
+    }
+}

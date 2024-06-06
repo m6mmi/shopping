@@ -1,7 +1,5 @@
 import csv
 import random
-from faker import Faker
-from collections import deque
 
 
 class Product:
@@ -43,21 +41,6 @@ def generate_costumer(product_list, que_nr):
     return costumer_data
 
 
-def generate_costumer_list(product_list, nr_of_costumers):
-    costumers_list = deque()
-    for costumer in range(nr_of_costumers):
-        costumer_data = {}
-        name = Faker().name()
-        shopping_cart = random.sample(sorted(product_list.keys()), random.randint(1, 10))
-        loyalty_card = random.choice([True, False])
-        costumer_data['name'] = name
-        costumer_data['cart'] = shopping_cart
-        costumer_data['card'] = loyalty_card
-        costumers_list.append(costumer_data)
-
-    return costumers_list
-
-
 def process_costumer(product_list, shopping_cart, loyalty_card, cashier):
     costumer = {}
     cart = []
@@ -71,14 +54,14 @@ def process_costumer(product_list, shopping_cart, loyalty_card, cashier):
         total += price
         total_discount += discount_price
         if loyalty_card is True:
-            cart.append({'product': product_name, 'price': price, 'loyalty_price': discount_price})
+            cart.append({'product': product_name, 'price': price, 'discount_price': discount_price})
         else:
             cart.append({'product': product_name, 'price': price})
 
     costumer['shopping_cart'] = cart
     costumer['total'] = round(total, 2)
     if loyalty_card is True:
-        costumer['loyalty_total'] = round(total_discount, 2)
+        costumer['total_discount_price'] = round(total_discount, 2)
     costumer['cashier'] = cashier
 
     return costumer
